@@ -1,8 +1,6 @@
 # Portfolio Project
 This is the github page repository, it currently holds a simple portfolio project using HTML, CSS and JavaScript. It displays some of the project that have been completed during the Full-Stack Codecadamy course.
 
-+ This project is currently viewable on my github pages (https://josh-ferguson.github.io/)
-
 ## Features
 + About me section
 + Projects (displayed in a slider)
